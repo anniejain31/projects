@@ -1,0 +1,1 @@
+Here we have made a screen recorder project in python to capture our screen. We have made a GUI. We are able to see previews after clicking on the preview button. By clicking on the rec button the screen gets recorded and the video is saved in the particular folder.
